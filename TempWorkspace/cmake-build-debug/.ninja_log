@@ -1,0 +1,11 @@
+# ninja log v5
+1	20	1708465426001295979	CMakeFiles/CLion_Workspace.dir/Objective.cpp.o	ee88725a2dec45a9
+1	118	1708465426101295471	CMakeFiles/CLion_Workspace.dir/PyResult.cpp.o	8d1f37d47823096a
+1	154	1708465426137295289	CMakeFiles/CLion_Workspace.dir/Result.cpp.o	8877db6fb48f2f90
+1	131	1708466146606384611	CMakeFiles/CLion_Workspace.dir/main.cpp.o	3d1206624aa22120
+131	166	1708466146642384489	CLion_Workspace	95e73fdf98b9e448
+0	134	1708493545305296000	CMakeFiles/CLion_Workspace.dir/main.cpp.o	3d1206624aa22120
+0	139	1708494293364870634	CMakeFiles/CLion_Workspace.dir/PyResult.cpp.o	8d1f37d47823096a
+139	173	1708494293400870404	CLion_Workspace	95e73fdf98b9e448
+0	130	1708494334240607553	CMakeFiles/CLion_Workspace.dir/PyResult.cpp.o	8d1f37d47823096a
+130	164	1708494334276607321	CLion_Workspace	95e73fdf98b9e448
